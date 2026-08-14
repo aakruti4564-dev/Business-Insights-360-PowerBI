@@ -102,7 +102,7 @@ Provides a consolidated overview of important business KPIs and performance acro
 
 ### Supply Chain View
 
-![Supply Chain Dashboard](supply chain.png)
+![Supply Chain Dashboard](supply-chain.png)
 
 ### Executive View
 
